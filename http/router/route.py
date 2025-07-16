@@ -1,2 +1,2 @@
-def router_app(app):
-    app.add_url_rule()
+async def router_app(app):
+    pass
